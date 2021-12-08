@@ -1,0 +1,1 @@
+export const servidor = "http://192.168.0.140:3000/api/docente"
